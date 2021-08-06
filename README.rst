@@ -5,6 +5,10 @@
             <img alt="logo" width="40%" src="https://f000.backblazeb2.com/file/huseinhouse-public/malaya-graph.png">
         </a>
     </p>
+    <p align="center">
+        <a href="https://github.com/huseinzol05/Malaya-Speech/blob/master/LICENSE"><img alt="MIT License" src="https://img.shields.io/github/license/huseinzol05/malaya-graph.svg?color=blue"></a>
+        <a href="https://discord.gg/aNzbnRqt3A"><img alt="discord" src="https://img.shields.io/badge/discord%20server-malaya-rgb(118,138,212).svg"></a>
+    </p>
 
 =========
 
