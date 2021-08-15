@@ -6,13 +6,13 @@
         </a>
     </p>
     <p align="center">
-        <a href="https://github.com/huseinzol05/Malaya-Speech/blob/master/LICENSE"><img alt="MIT License" src="https://img.shields.io/github/license/huseinzol05/malaya-graph.svg?color=blue"></a>
+        <a href="https://github.com/huseinzol05/malaya-graph/blob/master/LICENSE"><img alt="MIT License" src="https://img.shields.io/github/license/huseinzol05/malaya-graph.svg?color=blue"></a>
         <a href="https://discord.gg/aNzbnRqt3A"><img alt="discord" src="https://img.shields.io/badge/discord%20server-malaya-rgb(118,138,212).svg"></a>
     </p>
 
 =========
 
-**Malaya-Graph** is a Text Graph Toolkit for Bahasa Malaysia, powered by Deep Learning Tensorflow.
+**Malaya-Graph** is a Knowledge Graph Toolkit for Bahasa Malaysia, powered by Deep Learning Tensorflow.
 
 Documentation
 --------------
