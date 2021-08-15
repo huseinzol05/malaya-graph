@@ -35,4 +35,4 @@ Original from https://github.com/google-research-datasets/KELM-corpus
 
 ### [Wikidata5M](https://github.com/huseinzol05/malaya-graph/tree/master/data/wikidata5m)
 
-Original from https://github.com/google-research-datasets/wikidata5m
+Original from https://github.com/google-research-datasets/wikidata5m, Preprocess steps from https://github.com/uma-pi1/kge/tree/master/data
