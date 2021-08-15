@@ -43,7 +43,7 @@ If you use our software for research, please cite:
 
 ::
 
-  @misc{Malaya, Text Graph Toolkit library for bahasa Malaysia, powered by Deep Learning Tensorflow,
+  @misc{Malaya, Knowledge Graph Toolkit library for bahasa Malaysia, powered by Deep Learning Tensorflow,
     author = {Husein, Zolkepli},
     title = {Malaya-Graph},
     year = {2021},
